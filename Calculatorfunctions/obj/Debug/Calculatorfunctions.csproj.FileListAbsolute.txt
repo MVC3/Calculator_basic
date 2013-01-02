@@ -1,0 +1,5 @@
+C:\Users\Usha\Documents\Visual Studio 2010\Projects\Calculator\Calculatorfunctions\bin\Debug\Calculatorfunctions.dll
+C:\Users\Usha\Documents\Visual Studio 2010\Projects\Calculator\Calculatorfunctions\bin\Debug\Calculatorfunctions.pdb
+C:\Users\Usha\Documents\Visual Studio 2010\Projects\Calculator\Calculatorfunctions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usha\Documents\Visual Studio 2010\Projects\Calculator\Calculatorfunctions\obj\Debug\Calculatorfunctions.dll
+C:\Users\Usha\Documents\Visual Studio 2010\Projects\Calculator\Calculatorfunctions\obj\Debug\Calculatorfunctions.pdb
